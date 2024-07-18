@@ -1,7 +1,7 @@
 # To-Do List Application
 
 ## Description
-A simple console-based To-Do List application developed in Java. This project is designed for beginners to practice basic Java programming concepts such as classes, objects, arrays, and basic input/output operations.
+A simple console-based To-Do List application developed in Java.
 
 ## Features
 - Add a task
